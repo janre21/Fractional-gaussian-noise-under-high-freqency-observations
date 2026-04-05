@@ -1,6 +1,6 @@
 #---------------------------Description---------------------------------------------------#
 #  Input:                                                                                 #
-#                X: High-frequency sample of fractional Gaussian Noise, for a > 0 that is #        
+#                X: High-frequency sample of fractional Gaussian noise, for a > 0 that is #        
 #                   X = a*(B_{1/n}^H,B_{2/n}^H - B_{1/n}^H,...,B_{n/n}^H - B_{(n-1)/n}^H) #
 #                                                                                         #
 #                K: Number of terms in Paxson's approximation,                            #
